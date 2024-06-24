@@ -1,0 +1,27 @@
+
+h1{
+   font-size: 30px;
+   font-family: times;
+    }
+
+    header,footer,section,hgroup{
+   border: 1px solid black;
+   font-family: times;
+    }
+
+    section{
+    margin: 20px;
+    background: #778699; 
+    }
+
+    hgroup{
+      margin: 20px;
+      background: #00BFFF;
+      padding: 10px;
+    }
+
+    
+
+    p{
+    background: #32CD32;
+    }
